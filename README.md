@@ -38,6 +38,7 @@ Hi 👋 My name is Sergio
     <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"><img src="https://github.com/file-icons/DevOpicons/blob/master/svg/prolog.svg" width="36" height="36" alt="SWI-Prolog" /></a>
     <a href="https://racket-lang.org/" target="_blank" rel="noreferrer"><img src="https://racket-lang.org/img/racket-logo.svg" width="36" height="36" alt="Racket" /></a>
     <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" width="36" height="36" alt="Scala" /></a>
+    <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kriegalex/vscode-cuda/master/images/cudaIcon.png" width="36" height="36" alt="CUDA" /></a>
     <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
