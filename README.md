@@ -61,8 +61,8 @@ Hi 👋 My name is Sergio
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex;width: 100%;" class="col-12">
-    <div class="col-9">
+<div style="display: flex;width: 100%;">
+    <div>
         <a href="http://www.github.com/SergiodelaMata">
             <img src="https://github-readme-stats.vercel.app/api?username=SergiodelaMata&theme=synthwave&background=4D035E&border=DDDDDD&show_icons=true&hide_border=false&hide=&count_private=true&title_color=DBDD02FF&text_color=6581DDFF&icon_color=DBDD02FF&bg_color=4D035EFF&border=DDDDDDFF" alt="SergiodelaMata's GitHub stats" />
         </a>
@@ -70,7 +70,7 @@ Hi 👋 My name is Sergio
             <img src="http://github-readme-streak-stats.herokuapp.com?user=SergiodelaMata&theme=synthwave&date_format=j%20M%5B%20Y%5D&background=4D035E&border=DDDDDD&stroke=DDDDDD&ring=CEDD2D&fire=DD8304&currStreakNum=DBDD02&sideNums=DD3232&currStreakLabel=6581DD&sideLabels=5164DD&dates=8098DD" />
         </a>
     </div>
-    <div class="col-6">
+    <div>
         <a href="https://github.com/SergiodelaMata" style="align:left">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiodelaMata&langs_count=10&title_color=DBDD02FF&text_color=6581DDFF&icon_color=0891b2&bg_color=4D035EFF&hide_border=false&locale=en&custom_title=Top%20%25Languages" alt="Top Languages" />
         </a>
