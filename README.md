@@ -41,6 +41,7 @@ Hi 👋 My name is Sergio
     <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kriegalex/vscode-cuda/master/images/cudaIcon.png" width="36" height="36" alt="CUDA" /></a>
     <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://ionicframework.com/blog/wp-content/uploads/2016/08/ionic-icon.png" width="36" height="36" alt="CUDA" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="36" height="36" alt="Docker" /></a>
+    <a href="https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/" target="_blank" rel="noreferrer"><img src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png" width="36" height="36" alt="Kubernetes" /></a>
     <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
