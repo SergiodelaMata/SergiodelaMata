@@ -74,8 +74,11 @@ Hi 👋 My name is Sergio
 </div>
 
 <div>
+<b>
+    GitHub Commits Graph
+</b>
     <a href="http://www.github.com/SergiodelaMata">
-        <img src="https://activity-graph.herokuapp.com/graph?username=SergiodelaMata&bg_color=4D035EFF&color=DBDD02FF&line=0891b2&point=DD3232FF&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=SergiodelaMata&bg_color=4D035EFF&color=DBDD02FF&line=0891b2&point=DD3232FF&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph"/>
     </a>
 </div>
 
