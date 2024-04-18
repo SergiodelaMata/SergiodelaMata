@@ -9,9 +9,6 @@ Hi 👋 My name is Sergio
 * 🧠  I'm open-minded to learn and practice new things.
 * 🔭  I'm currently working as Android & Web developer in an Investigation Group at @uahes.
 
-<a href="https://www.twitter.com/Sergio99Sheiner" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/Sergio99Sheiner?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>     
 <a href="https://www.github.com/SergiodelaMata" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/SergiodelaMata?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
