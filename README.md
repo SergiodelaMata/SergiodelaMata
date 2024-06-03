@@ -58,7 +58,7 @@ Hi 👋 My name is Sergio
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 		</a></td>
 	</tr>
-/table>
+</table>
 
 ### Badges
 
