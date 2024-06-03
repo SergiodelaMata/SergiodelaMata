@@ -13,7 +13,7 @@ Hi 👋 My name is Sergio
     <img src="https://img.shields.io/github/followers/SergiodelaMata?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-### Skills
+💻 Skills
 <table>
 	<tr>
 		<td><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a></td>
@@ -46,7 +46,7 @@ Hi 👋 My name is Sergio
 		<td><a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a></td>
 	</tr>
 </table>
-### Socials
+📬 Contact
 
 <table>
 	<tr>
