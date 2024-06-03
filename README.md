@@ -42,8 +42,8 @@ Hi 👋 My name is Sergio
 		<td><a href="https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/" target="_blank" rel="noreferrer"><img src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png" width="36" height="36" alt="Kubernetes" /></a></td>
 		<td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="36" height="36" alt="GitHub" /></a></td>
 		<td><a href="https://www.adobe.com/es/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a></td>
-	/tr>
-/table>
+	</tr>
+</table>
 ### Socials
 
 <table>
